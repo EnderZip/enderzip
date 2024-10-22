@@ -1,6 +1,7 @@
-## hi
+## Hi 🖐️
 
-Studying at HUCE. Major in Information Technology and Multimedia </br></br>
+Currently studying at the Hanoi University of Civil Engineering. </br></br>
+Major in Information Technology and Multimedia. </br></br>
 Professional noob.
 
 <!--
